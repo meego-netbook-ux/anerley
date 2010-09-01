@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-11 22:48+0000\n"
+"POT-Creation-Date: 2010-08-27 21:14+0000\n"
 "PO-Revision-Date: 2010-01-31 16:03+0200\n"
 "Last-Translator: U. Sertac BIRCAN  <usbircan@gmail.com>\n"
 "Language-Team: TURKISH <LL@li.org>\n"
@@ -15,43 +15,43 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../anerley/anerley-tile.c:170 ../anerley/anerley-presence-chooser.c:43
+#: ../anerley/anerley-tile.c:171 ../anerley/anerley-presence-chooser.c:44
 msgid "Available"
 msgstr "Uygun"
 
-#: ../anerley/anerley-tile.c:173 ../anerley/anerley-presence-chooser.c:47
+#: ../anerley/anerley-tile.c:174 ../anerley/anerley-presence-chooser.c:48
 msgid "Busy"
 msgstr "Meşgul"
 
-#: ../anerley/anerley-tile.c:176 ../anerley/anerley-tile.c:179
-#: ../anerley/anerley-presence-chooser.c:44
+#: ../anerley/anerley-tile.c:177 ../anerley/anerley-tile.c:180
+#: ../anerley/anerley-presence-chooser.c:45
 msgid "Away"
 msgstr "Uzakta"
 
-#: ../anerley/anerley-tile.c:182 ../anerley/anerley-presence-chooser.c:42
+#: ../anerley/anerley-tile.c:183 ../anerley/anerley-presence-chooser.c:43
 msgid "Offline"
 msgstr "Çevrimdışı"
 
-#: ../anerley/anerley-econtact-item.c:233
+#: ../anerley/anerley-econtact-item.c:234
 msgid "Unnamed"
 msgstr "İsimsiz"
 
-#: ../anerley/anerley-presence-chooser.c:45
-msgid "Extended Away"
-msgstr "Uzun süredir uzakta"
-
-#: ../anerley/anerley-presence-chooser.c:41
+#: ../anerley/anerley-presence-chooser.c:42
 msgid "Unset"
 msgstr "Tanımlanmamış"
 
-#: ../anerley/anerley-presence-chooser.c:48
-msgid "Unknown"
-msgstr "Bilinmeyen"
-
 #: ../anerley/anerley-presence-chooser.c:46
+msgid "Extended Away"
+msgstr "Uzatılmış Uzakta"
+
+#: ../anerley/anerley-presence-chooser.c:47
 msgid "Hidden"
 msgstr "Saklı"
 
 #: ../anerley/anerley-presence-chooser.c:49
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: ../anerley/anerley-presence-chooser.c:50
 msgid "Error"
 msgstr "Hata"
