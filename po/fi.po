@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-05-05 09:33+0000\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Tomás Galicia <tomas.galicia@intel.com>\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -20,22 +20,26 @@ msgstr ""
 # Copyright (C) 2006 Samuli SeppÃ¤nen and Henna NykÃ¤nen.
 # Ilkka Tuohela <hile@iki.fi>, 2006-2009.
 # Samuli SeppÃ¤nen & Henna NykÃ¤nen <sjsepp@utu.fi>, 2006.
-#: ../anerley/anerley-tile.c:170 ../anerley/anerley-presence-chooser.c:43
+#: ../anerley/anerley-tile.c:170
+#: ../anerley/anerley-presence-chooser.c:43
 msgid "Available"
 msgstr "Tavoitettavissa"
 
-#: ../anerley/anerley-tile.c:173 ../anerley/anerley-presence-chooser.c:47
+#: ../anerley/anerley-tile.c:173
+#: ../anerley/anerley-presence-chooser.c:47
 msgid "Busy"
 msgstr "Varattu"
 
-#: ../anerley/anerley-tile.c:176 ../anerley/anerley-tile.c:179
+#: ../anerley/anerley-tile.c:176
+#: ../anerley/anerley-tile.c:179
 #: ../anerley/anerley-presence-chooser.c:44
 msgid "Away"
 msgstr "Poissa"
 
-#: ../anerley/anerley-tile.c:182 ../anerley/anerley-presence-chooser.c:42
+#: ../anerley/anerley-tile.c:182
+#: ../anerley/anerley-presence-chooser.c:42
 msgid "Offline"
-msgstr "Poissa linjoilta"
+msgstr "Offline-tila"
 
 #: ../anerley/anerley-econtact-item.c:233
 msgid "Unnamed"
@@ -60,3 +64,4 @@ msgstr "Tuntematon"
 #: ../anerley/anerley-presence-chooser.c:49
 msgid "Error"
 msgstr "Virhe"
+
