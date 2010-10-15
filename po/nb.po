@@ -1,4 +1,3 @@
-# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -36,12 +35,10 @@ msgid "Unnamed"
 msgstr "Ikke navngitt"
 
 #: ../anerley/anerley-presence-chooser.c:42
-#, fuzzy
 msgid "Unset"
-msgstr "Ikke innstilt"
+msgstr "Ikke satt"
 
 #: ../anerley/anerley-presence-chooser.c:46
-#, fuzzy
 msgid "Extended Away"
 msgstr "Utvidet borte"
 
